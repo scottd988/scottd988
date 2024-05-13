@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Scott, a full-stack developer based out of Philadelphia. I really enjoy learning new languages and frameworks and am always excited for a new project. You can check out my linkedin at https://www.linkedin.com/in/scott-denonn-318408139/.
 
 <!--
 **scottd988/scottd988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
