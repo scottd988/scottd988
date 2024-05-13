@@ -1,6 +1,6 @@
 ### Hi there 👋, Scott Denonn
 #### Full Stack Design and Development
-![Design and Development](./github-header-image.png)
+![Design and Development](https://github.com/scottd988/scottd988/assets/144740312/c5a5c65b-01c6-4b1a-b5bb-3c5b22cad9e6)
 I'm Scott, a full-stack developer based out of Philadelphia. I really enjoy learning new languages and frameworks and am always excited for a new project. You can check out my linkedin at https://www.linkedin.com/in/scott-denonn-318408139/.
 
 Skills: React, JS, HTML, CSS, Mongodb, Express, Node, Python
